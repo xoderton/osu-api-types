@@ -1,0 +1,22 @@
+{
+  "name": "osu-api-types",
+  "version": "1.0.0",
+  "description": "osu!api v2 typings",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoderton/osu-api-types.git"
+  },
+  "keywords": [
+    "osu",
+    "api",
+    "types",
+    "tosu"
+  ],
+  "author": "shockpast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoderton/osu-api-types/issues"
+  },
+  "homepage": "https://github.com/xoderton/osu-api-types#readme"
+}
